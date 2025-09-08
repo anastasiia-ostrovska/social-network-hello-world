@@ -1,0 +1,13 @@
+export const ROOT = '/';
+export const NOT_FOUND = '/not-found';
+export const LOGIN = '/login';
+export const HOME = '/home';
+export const NETWORK = '/network';
+export const NEW_POST = '/new-post';
+export const FAVOURITES = '/favorites';
+export const DIALOGS = '/dialogs';
+export const NOTIFICATIONS = '/notifications';
+export const PROFILE = '/profile';
+export const PROFILE_NETWORK = `${PROFILE}/network`;
+export const LIBRARY = '/library';
+export const SETTINGS = '/mode-switcher';
