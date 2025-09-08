@@ -13,5 +13,5 @@ export const PASSWORD_VALIDATION_MASSAGES = {
   digitRequired: 'Your password must contain at least one digit.',
   specialCharacterRequired:
     'Your password must contain at least one special character (!@#$%^&*?).',
-  minLength14: 'Your password must be at least 14 characters long.',
+  minLength12: 'Your password must be at least 12 characters long.',
 };

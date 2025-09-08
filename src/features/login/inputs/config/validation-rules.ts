@@ -3,7 +3,7 @@ import {
   containsSpecialCharacter,
   containsUppercase,
   fieldIsRequired,
-  minLength14,
+  minLength12,
   validEmailFormat,
   whitespacesForbidden,
 } from '@shared/forms';
@@ -34,5 +34,5 @@ export const passwordValidationRules = {
   specialCharacterRequired: containsSpecialCharacter(
     PASSWORD_VALIDATION_MASSAGES.specialCharacterRequired
   ),
-  minLength14: minLength14(PASSWORD_VALIDATION_MASSAGES.minLength14),
+  minLength12: minLength12(PASSWORD_VALIDATION_MASSAGES.minLength12),
 };

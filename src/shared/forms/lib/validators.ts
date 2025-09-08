@@ -28,7 +28,7 @@ const validateMinLength = (minLength: number) => (value: string) => {
   return value.length >= minLength;
 };
 
-export const minLength14 = createValidator(validateMinLength(14));
+export const minLength12 = createValidator(validateMinLength(12));
 
 // ---- REQUIRED validators ----
 const validateValueExists = (value: string) => {
