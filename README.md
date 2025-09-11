@@ -8,7 +8,7 @@ interactions
 ## Demo Images
 
 Welcome to watch more demo images:
-[https://github.com/anastasiia-ostrovska/social-network-hello-world/tree/development/src/assets/demo-images](https://github.com/anastasiia-ostrovska/movies/tree/master/src/assets/demo-images)](https://github.com/anastasiia-ostrovska/social-network-hello-world/tree/development/src/assets/demo-images)
+[https://github.com/anastasiia-ostrovska/social-network-hello-world/tree/development/src/assets/demo-images](https://github.com/anastasiia-ostrovska/social-network-hello-world/tree/development/src/assets/demo-images)
 
 ## Table of Contents
 
